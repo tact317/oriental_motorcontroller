@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="re">
+    <file>img/push.png</file>
+    <file>img/rotate.png</file>
+  </qresource>
+</RCC>

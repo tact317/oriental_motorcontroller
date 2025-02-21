@@ -1,0 +1,1 @@
+#ROS2用のmotorcoontollerを継承する子クラス

@@ -1,0 +1,1 @@
+#Python用のmotorcoontollerを継承する子クラス
